@@ -3,6 +3,7 @@
 Email IOCs for Suspected Spam Campaigns
 
 This repository contains a collection of email Indicators of Compromise (IOCs) that are potentially associated with spamming activities. These IOCs have been identified through a rigorous process designed to identify patterns and behaviors indicative of spam campaigns. Please read the disclaimer below to understand the scope and limitations of this repository.
+
 Disclaimer
 
 Note: The email IOCs provided in this repository are for informational and research purposes only. They are not intended for any malicious use. Users are expected to adhere to ethical standards and legal regulations when accessing and using the information contained in this repository.
