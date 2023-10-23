@@ -13,7 +13,7 @@ Procedure
 
 The IOCs in this repository have been derived through the following procedure:
 
-    Data Collection: A wide range of email data has been collected, including email content, headers, sender information, and malicious attachments.
+    Data Collection: A wide range of email data has been collected by honeypots, including email content, headers, sender information, and malicious attachments.
 
     Data Analysis: The data has been analysed by the use of Any.run and some of these emails have been found as the dropboxes used.
 
