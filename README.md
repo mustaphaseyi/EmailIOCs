@@ -29,6 +29,7 @@ Please remember to use these IOCs responsibly and adhere to all relevant laws an
 Contributing
 
 We welcome contributions to this repository. If you have identified additional email IOCs related to spam campaigns or have suggestions for improving the repository, please open an issue or submit a pull request. We value collaboration and the collective effort of the cybersecurity community.
+
 License
 
 This repository is made available under the MIT License, which means that you are free to use the information contained herein for your research and analysis, with proper attribution and adherence to ethical guidelines.
