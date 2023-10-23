@@ -1,4 +1,4 @@
-# EmailIOCs
+# Email IOCs
 
 Email IOCs for Suspected Spam Campaigns
 
