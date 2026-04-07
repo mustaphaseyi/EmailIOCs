@@ -118,3 +118,9 @@ chimoneynaija@gmail.com <br/>
 hdiserve@yahoo.com <br/>
 lordsonmike158@gmail.com <br/>
 rayventureslimited@gmail.com <br/>
+bruce@humphreyys.com <br/>
+matterz1232@gmail.com <br/>
+spchemmiports@gmail.com <br/>
+powerpumpproject1@gmail.com <br/>
+tompolak100@gmail.com <br/>
+mr87n17@gmail.com <br/>
